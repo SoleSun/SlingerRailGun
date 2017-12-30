@@ -1,0 +1,16 @@
+Features that I need to implement:
+
+Item power-ups: Sling
+
+Graphics:
+ proper animations and work on the background tomorrow
+
+Music
+
+Menu
+
+SQLite database for high score
+
+Rigorous testing on other Android devices
+
+Deployment onto Android store
